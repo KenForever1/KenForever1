@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktao&show_icons=true&line_height=21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kktao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kktao's Github Stats" />
 </p>
 
@@ -27,6 +25,10 @@ Here are some ideas to get you started:
 
 * 🎉   ...
 * 🍎   ...
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktao&show_icons=true&line_height=21" />
+</p>
 
 </details>
   
