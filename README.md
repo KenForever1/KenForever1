@@ -34,6 +34,13 @@ Here are some ideas to get you started:
   
 <hr>
 
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+  <p  align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kktao.kktao" alt="visitor badge"/>       
+  </p>
+</p>
 
 #### :bar_chart: Weekly development breakdown
 
