@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
