@@ -44,12 +44,19 @@ Here are some ideas to get you started:
   </p>
 </p>
 
-#### :bar_chart: Weekly development breakdown
+#### 🏊‍♂️ <a href="https://gist.github.com/kktao/5e811d9e533a6714d5b38b34df9a7587" target="_blank">Weekly Development Breakdown</a>
 
-<!--START_SECTION:waka-->
+<!-- code_time starts -->
+
 ```text
-No Activity tracked this Week
+C++       2 hrs 27 mins  ██████████████░░░░░░░░░░  44.4%
+Go          1 hr 4 mins  ████████░░░░░░░░░░░░░░░░  19.4%
+Python          52 mins  ███████▒░░░░░░░░░░░░░░░░  15.7%
+Markdown        34 mins  ██████░░░░░░░░░░░░░░░░░░  10.3%
+Vim scrip       26 mins  █████▒░░░░░░░░░░░░░░░░░░   7.8%
+Other            5 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
-<!--END_SECTION:waka-->
+
+<!-- code_time ends -->
 
 ![Dino](https://raw.githubusercontent.com/kktao/kktao/master/dino.gif)
