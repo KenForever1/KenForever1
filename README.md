@@ -52,4 +52,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/kktao/kktao/master/dino.gif)
