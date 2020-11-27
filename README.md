@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 #### 🏊‍♂️ <a href="https://gist.github.com/kktao/5e811d9e533a6714d5b38b34df9a7587" target="_blank">Weekly Development Breakdown</a>
-
+<!--
 <!-- code_time starts -->
 
 ```text
@@ -58,5 +58,6 @@ Other            5 mins  ███▓░░░░░░░░░░░░░░�
 ```
 
 <!-- code_time ends -->
+-->
 
 ![Dino](https://raw.githubusercontent.com/kktao/kktao/master/dino.gif)
