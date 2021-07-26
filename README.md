@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kktao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kktao's Github Stats" />
 </p>
 
-<details>
+<!-- <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktao&show_icons=true&line_height=21" />
 </p>
 
-</details>
+</details> -->
   
 <hr>
 
