@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 * ⚡  Fun fact: ...
 * ⛵  Hope to become a Full stack/Writer/Engineer.
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kktao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kktao's Github Stats" />
-</p>
+</p> -->
 
 <!-- <details>
   <summary>Some other facts about me-e-e</summary>
